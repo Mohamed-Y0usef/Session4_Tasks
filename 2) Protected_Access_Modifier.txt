@@ -1,0 +1,1 @@
+To declear the variable as a protected put a single underscore before the variable --> _name = "Mohamed"
